@@ -1,8 +1,8 @@
-![Hugo Coder Logotype](https://github.com/luizdepra/hugo-coder/blob/master/images/logos/logotype-a.png)
+![Hugo Coder Logotype](https://github.com/boisjacques/hugo-coder/blob/master/images/logos/logotype-a.png)
 
 A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
-![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
+![](https://github.com/boisjacques/hugo-coder/blob/master/images/screenshot.png)
 
 ## Quick Start
 
@@ -12,11 +12,11 @@ A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ## Extra Guides
 
-* [Multilingual Mode](https://github.com/luizdepra/hugo-coder/wiki/Multilingual-Mode)
+* [Multilingual Mode](https://github.com/boisjacques/hugo-coder/wiki/Multilingual-Mode)
 
 ## License
 
-Coder is licensed under the [MIT license](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md).
+Coder is licensed under the [MIT license](https://github.com/boisjacques/hugo-coder/blob/master/LICENSE.md).
 
 ## Maintenance
 
